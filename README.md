@@ -1,5 +1,5 @@
 # todo-mvvm-live-kotlin
-一个基于kotlin的mvvm架构的项目，基于google官方项目,官方项目的版本比较古老，运行起来会有bug，本项目主要升级了版本了和优化了一些kotlin的写法
+一个基于kotlin的mvvm架构的项目，基于google官方项目,官方项目的版本比较古老，运行起来会有bug，本项目主要升级了版本了和优化了一些kotlin的写法，下main的介绍基于官方的Readme
 
 This version of the app is called todo-mvvm-live-kotlin, and it is the kotlin version of [todo-mvvm-live](https://github.com/googlesamples/android-architecture/tree/todo-mvvm-live/).
 It uses some Architecture Components like ViewModel, LiveData, and other lifecycle-aware classes.
